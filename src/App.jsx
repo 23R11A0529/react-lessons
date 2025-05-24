@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import App1 from "./components/App1";
 import App2 from "./components/App2";
 import Header from "./components/Header";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import "./App.css";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 function App() {
