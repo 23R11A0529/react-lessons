@@ -12,7 +12,13 @@ export default function Header() {
       <Link to="/app4">App4</Link>-
       <Link to="/app5">App5</Link>-
       <Link to="/app6">App6</Link>-
-      <Link to="/app7">App7</Link>
+      <Link to="/app7">App7</Link>-
+      <Link to="/app8">App8</Link>-
+      <Link to="/app9">App9</Link>-
+      <Link to="/app10">App10</Link>-
+      <Link to="/app11">App11</Link>-
+      <Link to="/app12">App12</Link>-
+       <Link to="/app13">App13</Link>
     </div>
   );
 }
