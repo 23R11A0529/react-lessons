@@ -37,6 +37,7 @@ function App() {
          <Route path="/app11" element={<App11 />}></Route>
          <Route path="/app12" element={<App12 />}></Route>
           <Route path="/app13" element={<App13 />}></Route>
+          <Route path="/app14" element={<App14 />}></Route>
       </Routes>
       <Footer />
     </BrowserRouter>
